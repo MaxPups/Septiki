@@ -6236,6 +6236,7 @@ blockquote p {
 .contact-info {
   padding: 35px 40px;
   width: 370px;
+  background-color: #abd373;
 }
 
 @media (max-width: 767px) {
